@@ -2,7 +2,8 @@
 ## Date:
 
 ## AIM:
-To develop a simple webserver to serve html pages and display the configuration details of laptop.
+To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
+
 
 ## DESIGN STEPS:
 ### Step 1: 
